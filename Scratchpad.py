@@ -1,2 +1,5 @@
-for looper in [1,2,3,4,5,6]:
-    print("Hello")
+print("Time to Roll!")
+max = 6
+min = 1
+from random import randint
+print(randint(min,max))
